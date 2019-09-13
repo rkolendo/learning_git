@@ -25,3 +25,6 @@ paleo actually farm-to-table aute gastropub pork belly cred in minim yr.
 
 
 Oh. You need a little dummy text for your mockup? How quaint.
+
+
+Here are some edits in the new branch.
