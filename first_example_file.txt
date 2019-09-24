@@ -14,8 +14,8 @@ Glossier minim man bun kombucha.
 
 
 
-Deleted a whole paragraph above. I replaced one here.
 
+Deleted a whole paragraph above.
 
 
 Narwhal vape kitsch, affogato knausgaard tacos id. Ut fanny pack lyft exercitation. Snackwave heirloom normcore, 
@@ -28,3 +28,9 @@ Oh. You need a little dummy text for your mockup? How quaint.
 
 
 Here are some edits in the new branch.
+
+These are some edits.
+
+This edit is in pull-branch
+
+as is this one.
